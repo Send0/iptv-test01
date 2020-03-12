@@ -1,0 +1,155 @@
+#EXTM3U
+#EXTINF:-1 group-title="CANALES PELICULAS",HD | SONY
+http://69.64.33.127:25461/live/redhat/colombia12/6.m3u8
+#EXTINF:-1 group-title="CANALES PELICULAS",HD | WARNER CHANNEL
+http://69.64.33.127:25461/live/redhat/colombia12/7.m3u8
+#EXTINF:-1,MX | De Pelicula Plus
+http://69.64.33.127:25461/live/redhat/colombia12/123.m3u8
+#EXTINF:-1,HD | UNIVERSAL CHANNEL
+http://69.64.33.127:25461/live/redhat/colombia12/8.m3u8
+#EXTINF:-1,HD | FX
+http://69.64.33.127:25461/live/redhat/colombia12/9.m3u8
+#EXTINF:-1,HD | A&E
+http://69.64.33.127:25461/live/redhat/colombia12/10.m3u8
+#EXTINF:-1,HD | AXN
+http://69.64.33.127:25461/live/redhat/colombia12/11.m3u8
+#EXTINF:-1,HD | TruTV
+http://69.64.33.127:25461/live/redhat/colombia12/12.m3u8
+#EXTINF:-1,HD | Comedy Central
+http://69.64.33.127:25461/live/redhat/colombia12/13.m3u8
+#EXTINF:-1,HD | E! entertainment
+http://69.64.33.127:25461/live/redhat/colombia12/14.m3u8
+#EXTINF:-1,HD | Syfy
+http://69.64.33.127:25461/live/redhat/colombia12/15.m3u8
+#EXTINF:-1,HD | Disney Channel
+http://69.64.33.127:25461/live/redhat/colombia12/19.m3u8
+#EXTINF:-1,HD | TLC
+http://69.64.33.127:25461/live/redhat/colombia12/31.m3u8
+#EXTINF:-1,HD | Fox Premium Series
+http://69.64.33.127:25461/live/redhat/colombia12/32.m3u8
+#EXTINF:-1,HD | Fox Premium Movies
+http://69.64.33.127:25461/live/redhat/colombia12/33.m3u8
+#EXTINF:-1,HD | Cinecanal
+http://69.64.33.127:25461/live/redhat/colombia12/34.m3u8
+#EXTINF:-1,HD | TNT
+http://69.64.33.127:25461/live/redhat/colombia12/35.m3u8
+#EXTINF:-1,HD | Golden Plus
+http://69.64.33.127:25461/live/redhat/colombia12/36.m3u8
+#EXTINF:-1,HD | AMC
+http://69.64.33.127:25461/live/redhat/colombia12/37.m3u8
+#EXTINF:-1,HD | Morbido
+http://69.64.33.127:25461/live/redhat/colombia12/38.m3u8
+#EXTINF:-1,HD | Studio Universal
+http://69.64.33.127:25461/live/redhat/colombia12/39.m3u8
+#EXTINF:-1,HD | MTV
+http://69.64.33.127:25461/live/redhat/colombia12/40.m3u8
+#EXTINF:-1,HD | FX Movies
+http://69.64.33.127:25461/live/redhat/colombia12/41.m3u8
+#EXTINF:-1,HD | Fox Premium Action
+http://69.64.33.127:25461/live/redhat/colombia12/47.m3u8
+#EXTINF:-1,HD | Fox Sports 2
+http://69.64.33.127:25461/live/redhat/colombia12/48.m3u8
+#EXTINF:-1,HD | Espn MX
+http://69.64.33.127:25461/live/redhat/colombia12/49.m3u8
+#EXTINF:-1,HD | Fox
+http://69.64.33.127:25461/live/redhat/colombia12/50.m3u8
+#EXTINF:-1,HD | Cinemax
+http://69.64.33.127:25461/live/redhat/colombia12/55.m3u8
+#EXTINF:-1,HD | Max Prime
+http://69.64.33.127:25461/live/redhat/colombia12/1463.m3u8
+#EXTINF:-1,HD | HBO
+http://69.64.33.127:25461/live/redhat/colombia12/1472.m3u8
+#EXTINF:-1,HD | HBO 2
+http://69.64.33.127:25461/live/redhat/colombia12/1473.m3u8
+#EXTINF:-1,HD | HBO Signature
+http://69.64.33.127:25461/live/redhat/colombia12/1474.m3u8
+#EXTINF:-1,HD | HBO Family
+http://69.64.33.127:25461/live/redhat/colombia12/1475.m3u8
+#EXTINF:-1,HD | HBO Plus
+http://69.64.33.127:25461/live/redhat/colombia12/1476.m3u8
+#EXTINF:-1,HD | History 2
+http://69.64.33.127:25461/live/redhat/colombia12/1512.m3u8
+#EXTINF:-1,HD | Golden Premier
+http://69.64.33.127:25461/live/redhat/colombia12/8053.m3u8
+#EXTINF:-1,HD | Fox Premium Comedy
+http://69.64.33.127:25461/live/redhat/colombia12/20746.m3u8
+#EXTINF:-1,MX | Film & Arts
+http://69.64.33.127:25461/live/redhat/colombia12/83.m3u8
+#EXTINF:-1,MX | Sony
+http://69.64.33.127:25461/live/redhat/colombia12/85.m3u8
+#EXTINF:-1,MX | Warner Channel
+http://69.64.33.127:25461/live/redhat/colombia12/86.m3u8
+#EXTINF:-1,MX | Universal Channel
+http://69.64.33.127:25461/live/redhat/colombia12/87.m3u8
+#EXTINF:-1,MX | FX
+http://69.64.33.127:25461/live/redhat/colombia12/88.m3u8
+#EXTINF:-1,MX | A&E
+http://69.64.33.127:25461/live/redhat/colombia12/89.m3u8
+#EXTINF:-1,MX | AXN
+http://69.64.33.127:25461/live/redhat/colombia12/90.m3u8
+#EXTINF:-1,MX | TruTV
+http://69.64.33.127:25461/live/redhat/colombia12/91.m3u8
+#EXTINF:-1,MX | Studio Universal
+http://69.64.33.127:25461/live/redhat/colombia12/109.m3u8
+#EXTINF:-1,MX | Paramount
+http://69.64.33.127:25461/live/redhat/colombia12/112.m3u8
+#EXTINF:-1,IT | RAI
+http://69.64.33.127:25461/live/redhat/colombia12/10542.m3u8
+#EXTINF:-1,MX | TNT Series
+http://69.64.33.127:25461/live/redhat/colombia12/113.m3u8
+#EXTINF:-1,MX | Fox Premium Series
+http://69.64.33.127:25461/live/redhat/colombia12/114.m3u8
+#EXTINF:-1,MX | Fox Premium Action
+http://69.64.33.127:25461/live/redhat/colombia12/115.m3u8
+#EXTINF:-1,MX | Fox Premium Movies
+http://69.64.33.127:25461/live/redhat/colombia12/116.m3u8
+#EXTINF:-1,MX | Fox Premium Cinema
+http://69.64.33.127:25461/live/redhat/colombia12/117.m3u8
+#EXTINF:-1,MX | Fox Premium Classics
+http://69.64.33.127:25461/live/redhat/colombia12/118.m3u8
+#EXTINF:-1,MX | Az Cinema
+http://69.64.33.127:25461/live/redhat/colombia12/119.m3u8
+#EXTINF:-1,MX | Cinecanal
+http://69.64.33.127:25461/live/redhat/colombia12/120.m3u8
+#EXTINF:-1,MX | TNT
+http://69.64.33.127:25461/live/redhat/colombia12/121.m3u8
+#EXTINF:-1,MX | Golden Plus
+http://69.64.33.127:25461/live/redhat/colombia12/122.m3u8
+#EXTINF:-1,MX | AMC
+http://69.64.33.127:25461/live/redhat/colombia12/124.m3u8
+#EXTINF:-1,MX | Space
+http://69.64.33.127:25461/live/redhat/colombia12/125.m3u8
+#EXTINF:-1,MX | Cinemax
+http://69.64.33.127:25461/live/redhat/colombia12/128.m3u8
+#EXTINF:-1,MX | Golden
+http://69.64.33.127:25461/live/redhat/colombia12/129.m3u8
+#EXTINF:-1,MX | Golden Edge
+http://69.64.33.127:25461/live/redhat/colombia12/130.m3u8
+#EXTINF:-1,MX | De Pelicula
+http://69.64.33.127:25461/live/redhat/colombia12/131.m3u8
+#EXTINF:-1,MX | HBO Family
+http://69.64.33.127:25461/live/redhat/colombia12/132.m3u8
+#EXTINF:-1,MX | HBO
+http://69.64.33.127:25461/live/redhat/colombia12/133.m3u8
+#EXTINF:-1,MX | HBO 2
+http://69.64.33.127:25461/live/redhat/colombia12/134.m3u8
+#EXTINF:-1,MX | HBO Plus
+http://69.64.33.127:25461/live/redhat/colombia12/135.m3u8
+#EXTINF:-1,MX | HBO Signature
+http://69.64.33.127:25461/live/redhat/colombia12/136.m3u8
+#EXTINF:-1,MX | Max
+http://69.64.33.127:25461/live/redhat/colombia12/137.m3u8
+#EXTINF:-1,MX | Fox Premium Family
+http://69.64.33.127:25461/live/redhat/colombia12/138.m3u8
+#EXTINF:-1,MX | MAX UP
+http://69.64.33.127:25461/live/redhat/colombia12/139.m3u8
+#EXTINF:-1,MX | Max Prime
+http://69.64.33.127:25461/live/redhat/colombia12/1464.m3u8
+#EXTINF:-1,MX | Fox Premium Comedy
+http://69.64.33.127:25461/live/redhat/colombia12/1511.m3u8
+#EXTINF:-1,MX | TNT Op2
+http://69.64.33.127:25461/live/redhat/colombia12/10982.m3u8
+#EXTINF:-1,MX | Cine Dinamita
+http://69.64.33.127:25461/live/redhat/colombia12/20450.m3u8
+#EXTINF:-1,MX | Cine Latino
+http://69.64.33.127:25461/live/redhat/colombia12/20451.m3u8
